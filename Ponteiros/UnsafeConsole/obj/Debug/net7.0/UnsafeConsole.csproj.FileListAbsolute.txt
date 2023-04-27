@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.deps.json
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.runtimeconfig.json
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.dll
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.pdb
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.AssemblyInfo.cs
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.dll
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/refint/UnsafeConsole.dll
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.pdb
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.genruntimeconfig.cache
+/home/nilsojr/Documentos/C# .NET/Ponteiros/UnsafeConsole/obj/Debug/net7.0/ref/UnsafeConsole.dll

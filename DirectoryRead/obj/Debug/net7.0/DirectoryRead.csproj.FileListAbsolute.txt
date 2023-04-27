@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/bin/Debug/net7.0/DirectoryRead
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/bin/Debug/net7.0/DirectoryRead.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/bin/Debug/net7.0/DirectoryRead.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/bin/Debug/net7.0/DirectoryRead.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/bin/Debug/net7.0/DirectoryRead.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/refint/DirectoryRead.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/DirectoryRead.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/DirectoryRead/obj/Debug/net7.0/ref/DirectoryRead.dll

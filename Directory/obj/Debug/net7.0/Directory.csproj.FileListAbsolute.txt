@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/bin/Debug/net7.0/Directory
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/bin/Debug/net7.0/Directory.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/bin/Debug/net7.0/Directory.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/bin/Debug/net7.0/Directory.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/bin/Debug/net7.0/Directory.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/refint/Directory.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/Directory.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/Directory/obj/Debug/net7.0/ref/Directory.dll

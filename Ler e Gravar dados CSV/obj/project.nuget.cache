@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2J9lj3OSwJCV7ctJbjd2jIB27q2rDlpDnrjWtMJNlSfo65CpHTU2udqLXu5Koc9pPjDF8jgTvsxvjkB5U4Ya+Q==",
+  "success": true,
+  "projectFilePath": "/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/Ler e Gravar dados CSV com C#.csproj",
+  "expectedPackageFiles": [
+    "/home/nilsojr/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/Ler e Gravar dados CSV com C#
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/Ler e Gravar dados CSV com C#.deps.json
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/Ler e Gravar dados CSV com C#.runtimeconfig.json
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/Ler e Gravar dados CSV com C#.dll
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/Ler e Gravar dados CSV com C#.pdb
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/bin/Debug/net7.0/CsvHelper.dll
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.AssemblyInfo.cs
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.csproj.CopyComplete
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.dll
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/refint/Ler e Gravar dados CSV com C#.dll
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.pdb
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/Ler e Gravar dados CSV com C#.genruntimeconfig.cache
+/home/nilsojr/Documentos/Ler e Gravar dados CSV com C#/obj/Debug/net7.0/ref/Ler e Gravar dados CSV com C#.dll

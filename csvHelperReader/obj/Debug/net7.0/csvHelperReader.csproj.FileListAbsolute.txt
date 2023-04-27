@@ -1,0 +1,17 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/csvHelperReader
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/csvHelperReader.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/csvHelperReader.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/csvHelperReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/csvHelperReader.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/bin/Debug/net7.0/CsvHelper.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.csproj.CopyComplete
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/refint/csvHelperReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/csvHelperReader.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/obj/Debug/net7.0/ref/csvHelperReader.dll

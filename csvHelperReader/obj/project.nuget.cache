@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l9PNSYXjLo82waL3wWAqGuh9Aco5l9EzWE/j0m9onKtNu7qBio7sSaOXTYEeaQlUZyBYx5DINXf9qaGkYxNAg==",
+  "success": true,
+  "projectFilePath": "/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvHelperReader/csvHelperReader.csproj",
+  "expectedPackageFiles": [
+    "/home/nilsojr/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

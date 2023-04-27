@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net7.0/StringWriter
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net7.0/StringWriter.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net7.0/StringWriter.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net7.0/StringWriter.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/bin/Debug/net7.0/StringWriter.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/refint/StringWriter.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/StringWriter.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringWriter/obj/Debug/net7.0/ref/StringWriter.dll

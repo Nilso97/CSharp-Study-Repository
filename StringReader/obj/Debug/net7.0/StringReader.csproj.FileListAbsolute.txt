@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/bin/Debug/net7.0/StringReader
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/bin/Debug/net7.0/StringReader.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/bin/Debug/net7.0/StringReader.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/bin/Debug/net7.0/StringReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/bin/Debug/net7.0/StringReader.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/refint/StringReader.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/StringReader.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/StringReader/obj/Debug/net7.0/ref/StringReader.dll

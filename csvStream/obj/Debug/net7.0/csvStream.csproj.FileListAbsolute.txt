@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/bin/Debug/net7.0/csvStream
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/bin/Debug/net7.0/csvStream.deps.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/bin/Debug/net7.0/csvStream.runtimeconfig.json
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/bin/Debug/net7.0/csvStream.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/bin/Debug/net7.0/csvStream.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.AssemblyInfo.cs
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/refint/csvStream.dll
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.pdb
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/csvStream.genruntimeconfig.cache
+/home/nilsojr/Documentos/Trabalhando com Arquivos e Streams em C#/csvStream/obj/Debug/net7.0/ref/csvStream.dll

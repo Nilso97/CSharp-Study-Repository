@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/bin/Debug/net7.0/AbstractFactoryPattern
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/bin/Debug/net7.0/AbstractFactoryPattern.deps.json
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/bin/Debug/net7.0/AbstractFactoryPattern.runtimeconfig.json
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/bin/Debug/net7.0/AbstractFactoryPattern.dll
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/bin/Debug/net7.0/AbstractFactoryPattern.pdb
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.AssemblyInfo.cs
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.dll
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/refint/AbstractFactoryPattern.dll
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.pdb
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/AbstractFactoryPattern.genruntimeconfig.cache
+/home/nilsojr/Documentos/Design Patterns/AbstractFactoryPattern/obj/Debug/net7.0/ref/AbstractFactoryPattern.dll

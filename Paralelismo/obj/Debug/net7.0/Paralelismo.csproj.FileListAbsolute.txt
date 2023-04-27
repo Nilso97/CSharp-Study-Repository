@@ -1,0 +1,15 @@
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/bin/Debug/net7.0/Paralelismo
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/bin/Debug/net7.0/Paralelismo.deps.json
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/bin/Debug/net7.0/Paralelismo.runtimeconfig.json
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/bin/Debug/net7.0/Paralelismo.dll
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/bin/Debug/net7.0/Paralelismo.pdb
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.csproj.AssemblyReference.cache
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.AssemblyInfoInputs.cache
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.AssemblyInfo.cs
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.csproj.CoreCompileInputs.cache
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.dll
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/refint/Paralelismo.dll
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.pdb
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/Paralelismo.genruntimeconfig.cache
+/home/nilsojr/Documentos/C# .NET/Paralelismo .NET/Paralelismo/obj/Debug/net7.0/ref/Paralelismo.dll

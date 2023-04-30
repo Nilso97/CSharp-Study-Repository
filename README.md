@@ -1,1 +1,1 @@
-- Conteúdo separado nas Branchs
+- Conteúdo distribuído em outras Branchs

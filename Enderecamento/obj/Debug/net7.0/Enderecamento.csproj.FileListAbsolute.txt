@@ -1,0 +1,15 @@
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.csproj.AssemblyReference.cache
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.AssemblyInfoInputs.cache
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.AssemblyInfo.cs
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Study-Repository/Enderecamento/bin/Debug/net7.0/Enderecamento
+/workspaces/CSharp-Study-Repository/Enderecamento/bin/Debug/net7.0/Enderecamento.deps.json
+/workspaces/CSharp-Study-Repository/Enderecamento/bin/Debug/net7.0/Enderecamento.runtimeconfig.json
+/workspaces/CSharp-Study-Repository/Enderecamento/bin/Debug/net7.0/Enderecamento.dll
+/workspaces/CSharp-Study-Repository/Enderecamento/bin/Debug/net7.0/Enderecamento.pdb
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.dll
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/refint/Enderecamento.dll
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.pdb
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/Enderecamento.genruntimeconfig.cache
+/workspaces/CSharp-Study-Repository/Enderecamento/obj/Debug/net7.0/ref/Enderecamento.dll

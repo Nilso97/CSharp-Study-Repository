@@ -1,0 +1,7 @@
+POST http://localhost:5156/v1/account/login HTTP/1.1
+content-type: application/json
+
+{
+    "username": "batman",
+    "password": "batman"
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharp-Study-Repository/books-api/Books/books.csproj": {}
+    "/home/nilsojr/Documentos/Estudos C#/CSharp-Study-Repository/books-api/Books/books.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharp-Study-Repository/books-api/Books/books.csproj": {
+    "/home/nilsojr/Documentos/Estudos C#/CSharp-Study-Repository/books-api/Books/books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharp-Study-Repository/books-api/Books/books.csproj",
+        "projectUniqueName": "/home/nilsojr/Documentos/Estudos C#/CSharp-Study-Repository/books-api/Books/books.csproj",
         "projectName": "books",
-        "projectPath": "/workspaces/CSharp-Study-Repository/books-api/Books/books.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CSharp-Study-Repository/books-api/Books/obj/",
+        "projectPath": "/home/nilsojr/Documentos/Estudos C#/CSharp-Study-Repository/books-api/Books/books.csproj",
+        "packagesPath": "/home/nilsojr/.nuget/packages/",
+        "outputPath": "/home/nilsojr/Documentos/Estudos C#/CSharp-Study-Repository/books-api/Books/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/nilsojr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -46,6 +46,12 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -74,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.203/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

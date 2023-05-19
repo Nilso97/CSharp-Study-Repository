@@ -16,8 +16,8 @@ namespace Books.Data
         {
             modelBuilder.Entity<Book>(e => 
             {
-                e.HasKey("id")
-                    .HasName("BookId");
+                e.HasKey("BookId")
+                    .HasName("id");
 
                 e.Property("Author")
                     .HasColumnName("author")

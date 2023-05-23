@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/nilsojr/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula1/DelegatesEvents.csproj",
+      "projectUniqueName": "/workspaces/CSharp-Study-Repository/Aula1/DelegatesEvents.csproj",
       "projectName": "DelegatesEvents",
-      "projectPath": "/home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula1/DelegatesEvents.csproj",
-      "packagesPath": "/home/nilsojr/.nuget/packages/",
-      "outputPath": "/home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula1/obj/",
+      "projectPath": "/workspaces/CSharp-Study-Repository/Aula1/DelegatesEvents.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/CSharp-Study-Repository/Aula1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nilsojr/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.203/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

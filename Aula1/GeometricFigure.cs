@@ -7,12 +7,11 @@ namespace DelegatesEvents
         public double Height { get; set; }
         public double Width { get; set; }
         public double Depth { get; set; }
-
         public event Calculation Calculate;
 
         public void EventHandler()
         {
             Calculate(this.Height, this.Width, this.Depth);
-        } 
+        }
     }
 }

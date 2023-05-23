@@ -17,19 +17,22 @@
             figure.EventHandler();
         }
 
-        public static void CalculateSquareArea(double height, double width, double depth)
+        public static void CalculateSquareArea
+            (double height, double width, double depth)
         {
-            var area = height * width;
-            Console.WriteLine("Evento disparado da classe cliente -> [Cálculo de área de um Quadrado]");
-            Console.WriteLine($"Área do Quadrado: {area}\n");
+            var area = (height * width);
+
+            Console.WriteLine("--- Evento disparado da classe cliente [ÁREA QUADRADO] ---");
+            Console.WriteLine($"Área -> {area}");
         }
 
-
-        public static void CalculateCubeVolume(double height, double width, double depth)
+        public static void CalculateCubeVolume
+            (double height, double width, double depth)
         {
-            var volume = height * width * depth;
-            Console.WriteLine("Evento disparado da classe cliente -> [Cálculo do volume de um Cubo]");
-            Console.WriteLine($"Volume do Cubo: {volume}\n");
+            var volume = (height * width * depth);
+
+            Console.WriteLine("--- Evento disparado da classe cliente [VOLUME CUBO] ---");
+            Console.WriteLine($"Volume -> {volume}");
         }
     }
 }

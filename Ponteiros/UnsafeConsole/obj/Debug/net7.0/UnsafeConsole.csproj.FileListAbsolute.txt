@@ -1,0 +1,15 @@
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.deps.json
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.runtimeconfig.json
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.dll
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/bin/Debug/net7.0/UnsafeConsole.pdb
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.csproj.AssemblyReference.cache
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.AssemblyInfoInputs.cache
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.AssemblyInfo.cs
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.dll
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/refint/UnsafeConsole.dll
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.pdb
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/UnsafeConsole.genruntimeconfig.cache
+/workspaces/CSharp-Study-Repository/Ponteiros/UnsafeConsole/obj/Debug/net7.0/ref/UnsafeConsole.dll

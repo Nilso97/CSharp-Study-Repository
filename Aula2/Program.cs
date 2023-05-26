@@ -5,48 +5,41 @@
         public static void Main(string[] args)
         {
             var list = new List();
+            list.Notificate += Notificated;
             
-            list.Notificate += Notify;
-            list.Notificate += NotifyAgain;
+            list.Add("TV Smart 32");
+            list.Add("Microondas Eletrolux");
+            list.Add("Geladeira Consul");
 
-            list.Add("A");
-            list.Add("B");
-            list.Add("C");
+            list.GetList.FirstOrDefault(i => i.Id == 2);
 
-            Action<List> action = new Action<List>(
+            Action<List> action = new Action<List>
+            (
                 i => Console.WriteLine(i)
             );
 
-            Func<List, bool> func = new Func<List, bool>(
+            Func<List, bool> func = new Func<List, bool>
+            (
                 i => i.Id == 1
             );
 
-            Predicate<List> predicate = new Predicate<List>(
+            Predicate<List> predicate = new Predicate<List>
+            (
                 i => i.Id == 3
             );
 
             list.PrintAllItems(action);
 
-            Console.WriteLine();
-
             var item = list.GetItemById(func);
-
             var exist = list.ExistItem(predicate);
-
-            Console.WriteLine($"\nItem encontrado: {item}");
-
-            Console.WriteLine($"\nItem existe? {exist}");
+            
+            Console.WriteLine($"\n{item}");
+            Console.WriteLine(exist);
         }
 
-        public static void Notify()
+        public static void Notificated()
         {
-            Console.WriteLine("Fui notificado!");
-        }
-
-        public static void NotifyAgain()
-        {
-            Console.WriteLine("Fui notificado novamente!");
-        }
+            Console.WriteLine("Novo item adicionado ao carrinho:");
+        }    
     }
 }
-

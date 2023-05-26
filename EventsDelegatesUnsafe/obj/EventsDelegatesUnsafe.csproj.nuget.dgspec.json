@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharp-Study-Repository/Aula3/DelegatesEvents.csproj": {}
+    "/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/EventsDelegatesUnsafe.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharp-Study-Repository/Aula3/DelegatesEvents.csproj": {
+    "/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/EventsDelegatesUnsafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharp-Study-Repository/Aula3/DelegatesEvents.csproj",
-        "projectName": "DelegatesEvents",
-        "projectPath": "/workspaces/CSharp-Study-Repository/Aula3/DelegatesEvents.csproj",
+        "projectUniqueName": "/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/EventsDelegatesUnsafe.csproj",
+        "projectName": "EventsDelegatesUnsafe",
+        "projectPath": "/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/EventsDelegatesUnsafe.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CSharp-Study-Repository/Aula3/obj/",
+        "outputPath": "/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

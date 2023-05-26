@@ -1,0 +1,15 @@
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/bin/Debug/net7.0/EventsDelegatesUnsafe
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/bin/Debug/net7.0/EventsDelegatesUnsafe.deps.json
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/bin/Debug/net7.0/EventsDelegatesUnsafe.runtimeconfig.json
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/bin/Debug/net7.0/EventsDelegatesUnsafe.dll
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/bin/Debug/net7.0/EventsDelegatesUnsafe.pdb
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.csproj.AssemblyReference.cache
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.AssemblyInfoInputs.cache
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.AssemblyInfo.cs
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.dll
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/refint/EventsDelegatesUnsafe.dll
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.pdb
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/EventsDelegatesUnsafe.genruntimeconfig.cache
+/workspaces/CSharp-Study-Repository/EventsDelegatesUnsafe/obj/Debug/net7.0/ref/EventsDelegatesUnsafe.dll

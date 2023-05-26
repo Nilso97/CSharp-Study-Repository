@@ -28,3 +28,18 @@
 /home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula2/obj/Debug/net7.0/DelegatesEvents.pdb
 /home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula2/obj/Debug/net7.0/DelegatesEvents.genruntimeconfig.cache
 /home/nilsojr/Documentos/C# .NET/Events e Delegates/Aula2/obj/Debug/net7.0/ref/DelegatesEvents.dll
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.csproj.AssemblyReference.cache
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.AssemblyInfoInputs.cache
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.AssemblyInfo.cs
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.dll
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/refint/DelegatesEvents.dll
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.pdb
+/workspaces/CSharp-Study-Repository/Aula2/bin/Debug/net7.0/DelegatesEvents
+/workspaces/CSharp-Study-Repository/Aula2/bin/Debug/net7.0/DelegatesEvents.deps.json
+/workspaces/CSharp-Study-Repository/Aula2/bin/Debug/net7.0/DelegatesEvents.runtimeconfig.json
+/workspaces/CSharp-Study-Repository/Aula2/bin/Debug/net7.0/DelegatesEvents.dll
+/workspaces/CSharp-Study-Repository/Aula2/bin/Debug/net7.0/DelegatesEvents.pdb
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/DelegatesEvents.genruntimeconfig.cache
+/workspaces/CSharp-Study-Repository/Aula2/obj/Debug/net7.0/ref/DelegatesEvents.dll

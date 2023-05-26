@@ -2,29 +2,33 @@
 
 namespace DelegatesEvents
 {
-    // Callvirt
     public delegate int Calculate(int x, int y);
 
     internal class Program
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("----- [Callvirt] -----\n");
+
             var sw = new Stopwatch();
+
+            var values = new int[100000000];
 
             sw.Start();
 
-            var values = new int[10000000];
-
-            for (int i = 0; i < 10000000; i++)
+            for (int i = 0; i < 100000000; i++)
             {
                 var calc = new Calculate(Multiplicate);
-                var result = calc(15, 3);
+            
+                var result = calc(15, 3); // or calc.Invoke(15, 3)
                 values[i] = result;
+
+                Console.WriteLine($"Resultado: {result}");
             }
 
-            sw.Stop();
+            sw.Stop(); 
 
-            Console.WriteLine($"Tempo de execução: {sw.ElapsedMilliseconds} ms");
+            Console.WriteLine($"\n----- {sw.ElapsedMilliseconds}ms -----");
         }
 
         public static int Multiplicate(int x, int y)
@@ -33,4 +37,3 @@ namespace DelegatesEvents
         }
     }
 }
-
